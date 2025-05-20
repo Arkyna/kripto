@@ -1,0 +1,19 @@
+
+=== ECC SECURITY EVALUATION ===
+[ECC] Avg keygen time: 0.001254 sec
+[ECC] Brute-force resistance: 4.60e+66 years
+
+=== ENCRYPTION TIMING ===
+[Timing] AES Encryption : 0.003351 sec
+[Timing] ECC Encryption : 0.004334 sec
+
+=== PSNR ANALYSIS ===
+[PSNR] Value: inf dB
+
+=== CAPACITY ESTIMATION ===
+[Capacity] 144000 bits per frame (~18000 bytes)
+
+=== ROBUSTNESS TEST ===
+[Robustness] Compressed saved to: assets/stego_compressed.mp4
+
+=== EVALUATION COMPLETE ===

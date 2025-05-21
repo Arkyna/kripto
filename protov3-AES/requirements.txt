@@ -1,0 +1,7 @@
+python==3.11
+numpy
+scipy
+pillow
+opencv-python
+pycryptodome
+reedsolo
